@@ -2,20 +2,20 @@
 This is a baseline installation of a Linux server that has been prepared to host a web application.
 
 ## IP address and SSH port number
-IP address: 18.188.155.200
+IP address: 18.188.155.200  
 SSH port number: 2200
 
 ## Complete URL to the hosted web application
 http://18.188.155.200.xip.io
 
 ## Software installed
-In order to properly configure the server to host the catalog-app web application, the following packages were installed:
+In order to properly configure the server to host the catalog-app web application, the following packages were installed:  
 `apache2`
 `libapache2-mod-wsgi-py3`
 `postgresql`
-`python3-pip`
+`python3-pip`  
 
-From the Python Package Index, the following were installed:
+From the Python Package Index, the following were installed:  
 `flask`
 `SQLAlchemy`
 `psycopg2`
