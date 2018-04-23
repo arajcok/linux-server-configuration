@@ -27,4 +27,4 @@ From the Python Package Index, the following were installed:
 4. PostgreSQL database was configured and a user with limited permissions for catalog application was added.
 
 ## List of third-party resources used
-Several sites helped in understanding how to properly configure and setup the server, as well as correctly hosting the application. Among those include DigitalOcean, Udacity, and Stack Overflow. One particularly helpful resource was [this tutorial by Manuel](https://www.youtube.com/watch?v=3HuYr6G2Z28&t=1093s).
+Several sites helped in understanding how to properly configure and setup the server, as well as correctly hosting the application. Among those included DigitalOcean, Udacity, and Stack Overflow. One particularly helpful resource was [this tutorial by Manuel](https://www.youtube.com/watch?v=3HuYr6G2Z28&t=1093s).
